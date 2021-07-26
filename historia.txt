@@ -1,2 +1,3 @@
-Tengo que hacer mis deberes
+Tengo que hacer mis barras
 y resolver una que otra cosa
+hoy hablaremos de git
