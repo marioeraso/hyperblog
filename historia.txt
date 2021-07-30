@@ -1,6 +1,7 @@
 Tengo que hacer mis barras
 y resolver una que otra cosa
 Experimento 1
+Experimento 2
 Master 1
 Master 2
 hoy hablaremos de git
